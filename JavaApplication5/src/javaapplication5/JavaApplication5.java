@@ -16,7 +16,7 @@ public class JavaApplication5 {
      */
     public static void main(String[] args) {
         System.out.println("modificado :)");
-        System.out.println(":'c");
+        System.out.println(":)");
     }
 }
     
