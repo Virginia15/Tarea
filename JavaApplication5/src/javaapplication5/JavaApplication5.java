@@ -15,10 +15,7 @@ public class JavaApplication5 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("modificado :)");
-        System.out.println("desarrollo");
-        System.out.println("always :3");
-        System.out.println("ya basta :c");
+        System.out.println("sdhfbksjfsd");
     }
 }
     
